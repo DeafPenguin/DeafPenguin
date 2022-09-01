@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @DeafPenguin
 - 👀 I’m interested in games, tech, deaf related, so many other hobbies
-- 🌱 I’m currently learning groovy and python!
+- 🌱 I’m currently learning java and python!
 - 💞️ I’m looking to collaborate on deaf technologies
 - 📫 How to reach me:
 
